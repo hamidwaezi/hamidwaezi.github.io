@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+#cp -r ../maze/build/web maze
 title: Hamid Waezi's homepage
 description: Bookmark this to keep an eye on my project updates!
