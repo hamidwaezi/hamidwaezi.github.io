@@ -2,3 +2,5 @@
 #cp -r ../maze/build/web maze
 title: Hamid Waezi's homepage
 description: Bookmark this to keep an eye on my project updates!
+enable_google_verification: true  # enables google site verification 
+google-site-verification: d36GVkXJzj_-gjD-xwC8HZASf_Fs2xNnp6iRB8dOGN0
